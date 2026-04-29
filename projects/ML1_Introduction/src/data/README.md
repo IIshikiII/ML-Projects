@@ -1,0 +1,1 @@
+It is nessecary to [download](https://www.kaggle.com/competitions/two-sigma-connect-rental-listing-inquiries/data) train.json and test.json into this folder to run the notebook `task.ipynb`.
