@@ -1,0 +1,15 @@
+Tue Dec  9 17:04:38 2025    profiling-ncalls.prof
+
+         1638491 function calls (1617662 primitive calls) in 2.900 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1287 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     87/1    0.001    0.000    2.900    2.900 {built-in method builtins.exec}
+        1    0.000    0.000    2.900    2.900 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    1.534    1.534 financial_enhanced.py:12(get_page)
+      941    0.002    0.000    1.435    0.002 socket.py:706(readinto)
+      941    0.002    0.000    1.432    0.002 ssl.py:1289(recv_into)
+
+

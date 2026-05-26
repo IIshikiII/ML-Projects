@@ -1,0 +1,1 @@
+termgraph ex4.dat --color green yellow
